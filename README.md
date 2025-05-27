@@ -4,8 +4,8 @@ Memore game implemented using Web Components
 A simple and fun Memory Match Game built as a Web Component using native JavaScript and Shadow DOM. Match all the emoji pairs to win the game!
 
 🧩 Features
-****✅ 16 emoji cards (8 pairs) shuffled randomly
-****✅ Click to flip and match cards
+✅ 16 emoji cards (8 pairs) shuffled randomly
+✅ Click to flip and match cards
 ✅ Move counter and timer
 ✅ "Start" and "Play Again" buttons
 ✅ Victory message on win
